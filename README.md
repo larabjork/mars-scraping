@@ -13,7 +13,7 @@ The independent challenge portion of the exercise involved two deliverables: scr
 ### Deliverable 1: Scrape Titles and Preview Text from News Articles about Mars
 As saved in [this file](https://github.com/larabjork/mars-scraping/blob/main/mars_data_challenge_part_1.ipynb), Splinter and BeautifulSoup were used to scrape article information from [redplanetscience.com](https://redplanetscience.com). These results were exported to a JSON object. The following image shows a portion of that object:
 
-![Excerpt of JSON object](LINK)
+![Excerpt of JSON object](https://github.com/larabjork/mars-scraping/blob/main/Resources/d1_JSON_excerpt.png)
 
 ### Deliverable 2: Scrape and Analyze Mars Weather Data
 As saved in [this file](https://github.com/larabjork/mars-scraping/blob/main/mars_data_challenge_part_2.ipynb), two methods were used to scrape data from [this page](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html).
@@ -43,4 +43,4 @@ Using the Pandas groupby function to aggregate the data, then calculating the me
 * About how many terrestrial (Earth) days exist in a Martian year? 
 By plotting the average minimim daily temperature on Mars against the terrestrial (Earth) date as shown below, I was able to see peaks and valleys in the data that presumably approximate seasonal/annual variation. Looking at the span from the lowest values for 2014 and for 2016, I estimated that a Martian year is approximately 1.8 Earth years, which calculates to ~657 terrestrial days in a Martian year.
 
-![Mars temperature versus Earth date](
+![Mars temperature versus Earth date](LINK)
